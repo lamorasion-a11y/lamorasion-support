@@ -2,7 +2,7 @@
 export const PRIVACY_POLICY_URL =
   'https://www.termsfeed.com/live/7935e4f1-24d2-410e-ac46-1fd55a77956c';
 
-export const SUPPORT_SITE_URL = 'https://lamorasion-support.github.io/support/';
+export const SUPPORT_SITE_URL = 'https://lamorasion-a11y.github.io/lamorasion-support/';
 
 export const COMPANY_NAME = 'Lamorasion';
 
